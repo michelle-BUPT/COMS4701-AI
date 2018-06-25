@@ -6,20 +6,6 @@ from collections import deque
 # from heapq import heappush
 # from heapq import heappop
 
-
-'''
-Problems:
-
-
-
-
-0210
-nodes_expanded solved should be explored minus 1
-
-1. node depth specific function
-2. node recover
-3. max ram use
-'''
 move = {}
 move[-3] = ('Up')
 move[-1] = ('Left')
